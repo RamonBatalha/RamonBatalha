@@ -2,7 +2,7 @@
 
 ###
 
-<h3 align="left">🔭 I’m currently working on personal projects with a focus on Front-End Development.<br>    🌱 I am currently learning JavaScript, React, and other related skills. I'm currently learning python in my spare time and studying English to improve my communications abilities.<br>    📫 How to reach me:<br>    e-mail: devramonbatalha@gmail.com<br>    Linkedin: https://www.linkedin.com/in/ramon-batalha-a62296232/</h3>
+<h3 align="left">🔭 I’m currently working on personal projects with a focus on full stack Development.<br>    🌱 I am currently learning Java, JavaScript, React, and other related skills. I'm currently learning python in my spare time and studying English to improve my communications abilities.<br>    📫 How to reach me:<br>    e-mail: devramonbatalha@gmail.com<br>    Linkedin: https://www.linkedin.com/in/ramon-batalha-a62296232/</h3>
 
 ###
 
@@ -27,7 +27,7 @@
 
 ###
 
-<img href="https://raw.githubusercontent.com/RamonBatalha/RamonBatalha/blob/output/snake.svg" alt="Snake animation" />
+
 
 ###
 
