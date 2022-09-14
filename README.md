@@ -2,7 +2,7 @@
 
 ###
 
-<h3 align="left">🔭 I’m currently working on personal projects with a focus on full stack Development.<br>    🌱 I am currently learning Java and Springboot, JavaScript, React, and other related skills.<br>    📫 How to reach me:<br>    e-mail: devramonbatalha@gmail.com<br>    Linkedin: https://www.linkedin.com/in/ramon-batalha-a62296232/</h3>
+<h3 align="left">🔭 Estou , atualmente, trabalhando em projetos pessoais com foco em desevolvimento Back-End com Java e Spring Boot <br>    🌱 Eu estou desenvolvendo minhas habilidades na criação de APIRestFull e Microservices. Tenhos vivência e conhecimento em projetos com Banco de Dados <br>    📫 Como me encontrar:<br>    e-mail: devramonbatalha@gmail.com<br>    Linkedin: https://www.linkedin.com/in/ramon-batalha-a62296232/</h3>
 
 ###
 
